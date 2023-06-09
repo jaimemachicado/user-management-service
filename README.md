@@ -40,11 +40,12 @@ Project with an educational objective to create a microservice that is responsib
 
 Contributions are welcome. If you have any ideas or improvements, please follow these steps:
 
-1. Fork the project.
-2. Create a branch for your contribution: `git checkout -b my-contribution`
-3. Make the changes and commit: `git commit -m 'Description of my contribution'`
-4. Push the branch: `git push origin my-contribution`
-5. Open a Pull Request on GitHub.
+1. Select an open Issue.
+2. Fork the project.
+3. Create a branch for your contribution: `git checkout -b feature/issueCode`
+4. Make the changes and commit: `git commit -m 'Description of my contribution'`
+5. Push the branch: `git push origin feature/issueCode`
+6. Open a Pull Request on GitHub.
 
 ## License
 
