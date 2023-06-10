@@ -6,8 +6,8 @@ Project with an educational objective to create a microservice that is responsib
 ## Technologies
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,kubernetes,docker,postman" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=java,spring,git,kubernetes,docker,postman" alt="Techologies icons"/>
   </a>
 </p>
 
